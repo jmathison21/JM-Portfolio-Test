@@ -3,7 +3,7 @@
 function App() {
   return (
     <div>
-      <h1>Jenna Mathison</h1>
+      <h1 className="font-bold">Jenna Mathison</h1>
     </div>
   )
 }
